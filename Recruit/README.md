@@ -1,1 +1,0 @@
-![recruit] (./recruit.png)
