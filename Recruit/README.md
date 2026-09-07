@@ -6,6 +6,8 @@ Recruit has just launched its new recruitment portal, allowing HR staff to manag
 
 Can you gain an initial foothold, escalate your access, and ultimately log in as the administrator?
 
+LET'S GO!
+
 ![nmap scan](./images/nmap.png)
 Our first task is to use Nmap.
 nmap -p- -A -sS 10.113.165.77 
